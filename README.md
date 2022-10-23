@@ -4,4 +4,6 @@ By far the best and most advanced DaHood Menu with dupe, autofarm and server cra
 
 # Installation
 
-If you know anything about compiling, you can compile all the files for yourself; if not head to the right in the release tab where you can find a precompiled version
+If you know anything about compiling, you can compile all the files for yourself. <br/>
+if not head to the right in 
+the release tab where you can find a precompiled version
