@@ -19,14 +19,10 @@
 #include "imgui/imgui.h"
 
 #include "Config.h"
-#include "Hacks/AntiAim.h"
-#include "Hacks/Backtrack.h"
-#include "Hacks/Glow.h"
 #include "InventoryChanger/InventoryChanger.h"
 #include "InventoryChanger/InventoryConfig.h"
-#include "Hacks/Sound.h"
-#include "Hacks/Visuals.h"
-#include "Hacks/Misc.h"
+#include "Visuals.h"
+#include "Misc.h"
 
 #ifdef _WIN32
 int CALLBACK fontCallback(const LOGFONTW* lpelfe, const TEXTMETRICW*, DWORD, LPARAM lParam)
